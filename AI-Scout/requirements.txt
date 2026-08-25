@@ -1,0 +1,9 @@
+pandas==2.2.0
+numpy==1.26.4
+scikit-learn==1.4.0
+imbalanced-learn==0.12.0
+python-constraint==1.4.0
+pgmpy==0.1.24
+SPARQLWrapper==2.0.0
+tqdm==4.66.1
+matplotlib==3.8.2
